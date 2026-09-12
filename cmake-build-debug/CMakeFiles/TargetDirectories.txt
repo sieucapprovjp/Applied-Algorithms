@@ -1,3 +1,6 @@
 C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/Applied_Algo.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_1_1.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_1_2.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_1_3.dir
 C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

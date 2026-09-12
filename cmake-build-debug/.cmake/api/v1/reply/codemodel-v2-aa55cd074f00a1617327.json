@@ -15,7 +15,10 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1,
+						2,
+						3
 					]
 				}
 			],
@@ -30,7 +33,10 @@
 					"name" : "Applied_Algo",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1,
+						2,
+						3
 					]
 				}
 			],
@@ -41,6 +47,27 @@
 					"id" : "Applied_Algo::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Applied_Algo-Debug-a22ab9b32c210a0d070e.json",
 					"name" : "Applied_Algo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P_1_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P_1_1-Debug-c7bf1b2f718945552a24.json",
+					"name" : "P_1_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P_1_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P_1_2-Debug-90f3028ab1b0e5276a44.json",
+					"name" : "P_1_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P_1_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P_1_3-Debug-ae4f441eb4dd9a921070.json",
+					"name" : "P_1_3",
 					"projectIndex" : 0
 				}
 			]
