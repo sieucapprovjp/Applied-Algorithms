@@ -3,5 +3,12 @@ C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_1_1.dir
 C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_1_2.dir
 C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_1_3.dir
 C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_1_4.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/Largest_Black_Sub_Rectangle.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/Range_minimum.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/Telco_data.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_2_1.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_2_2.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_2_3.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_2_4.dir
 C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

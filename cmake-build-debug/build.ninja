@@ -205,6 +205,237 @@ build P_1_4.exe: CXX_EXECUTABLE_LINKER__P_1_4_Debug CMakeFiles/P_1_4.dir/P_1/P_1
   TARGET_IMPLIB = libP_1_4.dll.a
   TARGET_PDB = P_1_4.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Largest_Black_Sub_Rectangle
+
+
+#############################################
+# Order-only phony target for Largest_Black_Sub_Rectangle
+
+build cmake_object_order_depends_target_Largest_Black_Sub_Rectangle: phony || .
+
+build CMakeFiles/Largest_Black_Sub_Rectangle.dir/LAB/Lab1/Largest_Black_Sub_Rectangle.cpp.obj: CXX_COMPILER__Largest_Black_Sub_Rectangle_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/LAB/Lab1/Largest_Black_Sub_Rectangle.cpp || cmake_object_order_depends_target_Largest_Black_Sub_Rectangle
+  DEP_FILE = CMakeFiles\Largest_Black_Sub_Rectangle.dir\LAB\Lab1\Largest_Black_Sub_Rectangle.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Largest_Black_Sub_Rectangle.dir
+  OBJECT_FILE_DIR = CMakeFiles\Largest_Black_Sub_Rectangle.dir\LAB\Lab1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Largest_Black_Sub_Rectangle
+
+
+#############################################
+# Link the executable Largest_Black_Sub_Rectangle.exe
+
+build Largest_Black_Sub_Rectangle.exe: CXX_EXECUTABLE_LINKER__Largest_Black_Sub_Rectangle_Debug CMakeFiles/Largest_Black_Sub_Rectangle.dir/LAB/Lab1/Largest_Black_Sub_Rectangle.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Largest_Black_Sub_Rectangle.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Largest_Black_Sub_Rectangle.exe
+  TARGET_IMPLIB = libLargest_Black_Sub_Rectangle.dll.a
+  TARGET_PDB = Largest_Black_Sub_Rectangle.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Range_minimum
+
+
+#############################################
+# Order-only phony target for Range_minimum
+
+build cmake_object_order_depends_target_Range_minimum: phony || .
+
+build CMakeFiles/Range_minimum.dir/LAB/Lab1/Range_minimum_query.cpp.obj: CXX_COMPILER__Range_minimum_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/LAB/Lab1/Range_minimum_query.cpp || cmake_object_order_depends_target_Range_minimum
+  DEP_FILE = CMakeFiles\Range_minimum.dir\LAB\Lab1\Range_minimum_query.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Range_minimum.dir
+  OBJECT_FILE_DIR = CMakeFiles\Range_minimum.dir\LAB\Lab1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Range_minimum
+
+
+#############################################
+# Link the executable Range_minimum.exe
+
+build Range_minimum.exe: CXX_EXECUTABLE_LINKER__Range_minimum_Debug CMakeFiles/Range_minimum.dir/LAB/Lab1/Range_minimum_query.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Range_minimum.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Range_minimum.exe
+  TARGET_IMPLIB = libRange_minimum.dll.a
+  TARGET_PDB = Range_minimum.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Telco_data
+
+
+#############################################
+# Order-only phony target for Telco_data
+
+build cmake_object_order_depends_target_Telco_data: phony || .
+
+build CMakeFiles/Telco_data.dir/LAB/Lab1/Telco_data.cpp.obj: CXX_COMPILER__Telco_data_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/LAB/Lab1/Telco_data.cpp || cmake_object_order_depends_target_Telco_data
+  DEP_FILE = CMakeFiles\Telco_data.dir\LAB\Lab1\Telco_data.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Telco_data.dir
+  OBJECT_FILE_DIR = CMakeFiles\Telco_data.dir\LAB\Lab1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Telco_data
+
+
+#############################################
+# Link the executable Telco_data.exe
+
+build Telco_data.exe: CXX_EXECUTABLE_LINKER__Telco_data_Debug CMakeFiles/Telco_data.dir/LAB/Lab1/Telco_data.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Telco_data.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Telco_data.exe
+  TARGET_IMPLIB = libTelco_data.dll.a
+  TARGET_PDB = Telco_data.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P_2_1
+
+
+#############################################
+# Order-only phony target for P_2_1
+
+build cmake_object_order_depends_target_P_2_1: phony || .
+
+build CMakeFiles/P_2_1.dir/P_2/P_2_1.cpp.obj: CXX_COMPILER__P_2_1_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/P_2/P_2_1.cpp || cmake_object_order_depends_target_P_2_1
+  DEP_FILE = CMakeFiles\P_2_1.dir\P_2\P_2_1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\P_2_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\P_2_1.dir\P_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P_2_1
+
+
+#############################################
+# Link the executable P_2_1.exe
+
+build P_2_1.exe: CXX_EXECUTABLE_LINKER__P_2_1_Debug CMakeFiles/P_2_1.dir/P_2/P_2_1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\P_2_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = P_2_1.exe
+  TARGET_IMPLIB = libP_2_1.dll.a
+  TARGET_PDB = P_2_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P_2_2
+
+
+#############################################
+# Order-only phony target for P_2_2
+
+build cmake_object_order_depends_target_P_2_2: phony || .
+
+build CMakeFiles/P_2_2.dir/P_2/P_2_2.cpp.obj: CXX_COMPILER__P_2_2_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/P_2/P_2_2.cpp || cmake_object_order_depends_target_P_2_2
+  DEP_FILE = CMakeFiles\P_2_2.dir\P_2\P_2_2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\P_2_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\P_2_2.dir\P_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P_2_2
+
+
+#############################################
+# Link the executable P_2_2.exe
+
+build P_2_2.exe: CXX_EXECUTABLE_LINKER__P_2_2_Debug CMakeFiles/P_2_2.dir/P_2/P_2_2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\P_2_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = P_2_2.exe
+  TARGET_IMPLIB = libP_2_2.dll.a
+  TARGET_PDB = P_2_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P_2_3
+
+
+#############################################
+# Order-only phony target for P_2_3
+
+build cmake_object_order_depends_target_P_2_3: phony || .
+
+build CMakeFiles/P_2_3.dir/P_2/P_2_3.cpp.obj: CXX_COMPILER__P_2_3_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/P_2/P_2_3.cpp || cmake_object_order_depends_target_P_2_3
+  DEP_FILE = CMakeFiles\P_2_3.dir\P_2\P_2_3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\P_2_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\P_2_3.dir\P_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P_2_3
+
+
+#############################################
+# Link the executable P_2_3.exe
+
+build P_2_3.exe: CXX_EXECUTABLE_LINKER__P_2_3_Debug CMakeFiles/P_2_3.dir/P_2/P_2_3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\P_2_3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = P_2_3.exe
+  TARGET_IMPLIB = libP_2_3.dll.a
+  TARGET_PDB = P_2_3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P_2_4
+
+
+#############################################
+# Order-only phony target for P_2_4
+
+build cmake_object_order_depends_target_P_2_4: phony || .
+
+build CMakeFiles/P_2_4.dir/P_2/P_2_4.cpp.obj: CXX_COMPILER__P_2_4_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/P_2/P_2_4.cpp || cmake_object_order_depends_target_P_2_4
+  DEP_FILE = CMakeFiles\P_2_4.dir\P_2\P_2_4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\P_2_4.dir
+  OBJECT_FILE_DIR = CMakeFiles\P_2_4.dir\P_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P_2_4
+
+
+#############################################
+# Link the executable P_2_4.exe
+
+build P_2_4.exe: CXX_EXECUTABLE_LINKER__P_2_4_Debug CMakeFiles/P_2_4.dir/P_2/P_2_4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\P_2_4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = P_2_4.exe
+  TARGET_IMPLIB = libP_2_4.dll.a
+  TARGET_PDB = P_2_4.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -233,6 +464,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build Applied_Algo: phony Applied_Algo.exe
 
+build Largest_Black_Sub_Rectangle: phony Largest_Black_Sub_Rectangle.exe
+
 build P_1_1: phony P_1_1.exe
 
 build P_1_2: phony P_1_2.exe
@@ -240,6 +473,18 @@ build P_1_2: phony P_1_2.exe
 build P_1_3: phony P_1_3.exe
 
 build P_1_4: phony P_1_4.exe
+
+build P_2_1: phony P_2_1.exe
+
+build P_2_2: phony P_2_2.exe
+
+build P_2_3: phony P_2_3.exe
+
+build P_2_4: phony P_2_4.exe
+
+build Range_minimum: phony Range_minimum.exe
+
+build Telco_data: phony Telco_data.exe
 
 # =============================================================================
 # Folder targets.
@@ -249,7 +494,7 @@ build P_1_4: phony P_1_4.exe
 #############################################
 # Folder: C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug
 
-build all: phony Applied_Algo.exe P_1_1.exe P_1_2.exe P_1_3.exe P_1_4.exe
+build all: phony Applied_Algo.exe P_1_1.exe P_1_2.exe P_1_3.exe P_1_4.exe Largest_Black_Sub_Rectangle.exe Range_minimum.exe Telco_data.exe P_2_1.exe P_2_2.exe P_2_3.exe P_2_4.exe
 
 # =============================================================================
 # Built-in targets
