@@ -17,3 +17,5 @@ add_executable(P_2_1 P_2/P_2_1.cpp)
 add_executable(P_2_2 P_2/P_2_2.cpp)
 add_executable(P_2_3 P_2/P_2_3.cpp)
 add_executable(P_2_4 P_2/P_2_4.cpp)
+
+add_executable(P_3_1 P_3/P_3_1.cpp)

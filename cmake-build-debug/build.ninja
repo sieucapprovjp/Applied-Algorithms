@@ -436,6 +436,39 @@ build P_2_4.exe: CXX_EXECUTABLE_LINKER__P_2_4_Debug CMakeFiles/P_2_4.dir/P_2/P_2
   TARGET_IMPLIB = libP_2_4.dll.a
   TARGET_PDB = P_2_4.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target P_3_1
+
+
+#############################################
+# Order-only phony target for P_3_1
+
+build cmake_object_order_depends_target_P_3_1: phony || .
+
+build CMakeFiles/P_3_1.dir/P_3/P_3_1.cpp.obj: CXX_COMPILER__P_3_1_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/P_3/P_3_1.cpp || cmake_object_order_depends_target_P_3_1
+  DEP_FILE = CMakeFiles\P_3_1.dir\P_3\P_3_1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\P_3_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\P_3_1.dir\P_3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P_3_1
+
+
+#############################################
+# Link the executable P_3_1.exe
+
+build P_3_1.exe: CXX_EXECUTABLE_LINKER__P_3_1_Debug CMakeFiles/P_3_1.dir/P_3/P_3_1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\P_3_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = P_3_1.exe
+  TARGET_IMPLIB = libP_3_1.dll.a
+  TARGET_PDB = P_3_1.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -482,6 +515,8 @@ build P_2_3: phony P_2_3.exe
 
 build P_2_4: phony P_2_4.exe
 
+build P_3_1: phony P_3_1.exe
+
 build Range_minimum: phony Range_minimum.exe
 
 build Telco_data: phony Telco_data.exe
@@ -494,7 +529,7 @@ build Telco_data: phony Telco_data.exe
 #############################################
 # Folder: C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug
 
-build all: phony Applied_Algo.exe P_1_1.exe P_1_2.exe P_1_3.exe P_1_4.exe Largest_Black_Sub_Rectangle.exe Range_minimum.exe Telco_data.exe P_2_1.exe P_2_2.exe P_2_3.exe P_2_4.exe
+build all: phony Applied_Algo.exe P_1_1.exe P_1_2.exe P_1_3.exe P_1_4.exe Largest_Black_Sub_Rectangle.exe Range_minimum.exe Telco_data.exe P_2_1.exe P_2_2.exe P_2_3.exe P_2_4.exe P_3_1.exe
 
 # =============================================================================
 # Built-in targets
