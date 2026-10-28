@@ -11,5 +11,12 @@ C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_2_2.dir
 C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_2_3.dir
 C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_2_4.dir
 C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/P_3_1.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/Balanced_Course_Assignment.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/Disjoint.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/Inversions.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/SubSequence.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/Job_Selection.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/Parallel_Job.dir
+C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/TSP.dir
 C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

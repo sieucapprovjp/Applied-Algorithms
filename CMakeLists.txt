@@ -19,3 +19,13 @@ add_executable(P_2_3 P_2/P_2_3.cpp)
 add_executable(P_2_4 P_2/P_2_4.cpp)
 
 add_executable(P_3_1 P_3/P_3_1.cpp)
+
+add_executable(Balanced_Course_Assignment LAB/Lab02/Balanced_Course_Assignment.cpp)
+
+add_executable(Disjoint LAB/Lab03/Disjoint_Segment.cpp)
+add_executable(Inversions LAB/Lab03/Inversions.cpp)
+add_executable(SubSequence LAB/Lab03/Subsequence_MaxDistance.cpp)
+
+add_executable(Job_Selection P_7/Job_Selection.cpp)
+add_executable(Parallel_Job P_7/Parallel_Job.cpp)
+add_executable(TSP P_7/TSP_Hard.cpp)

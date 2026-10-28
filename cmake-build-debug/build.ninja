@@ -469,6 +469,237 @@ build P_3_1.exe: CXX_EXECUTABLE_LINKER__P_3_1_Debug CMakeFiles/P_3_1.dir/P_3/P_3
   TARGET_IMPLIB = libP_3_1.dll.a
   TARGET_PDB = P_3_1.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Balanced_Course_Assignment
+
+
+#############################################
+# Order-only phony target for Balanced_Course_Assignment
+
+build cmake_object_order_depends_target_Balanced_Course_Assignment: phony || .
+
+build CMakeFiles/Balanced_Course_Assignment.dir/LAB/Lab02/Balanced_Course_Assignment.cpp.obj: CXX_COMPILER__Balanced_Course_Assignment_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/LAB/Lab02/Balanced_Course_Assignment.cpp || cmake_object_order_depends_target_Balanced_Course_Assignment
+  DEP_FILE = CMakeFiles\Balanced_Course_Assignment.dir\LAB\Lab02\Balanced_Course_Assignment.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Balanced_Course_Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Balanced_Course_Assignment.dir\LAB\Lab02
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Balanced_Course_Assignment
+
+
+#############################################
+# Link the executable Balanced_Course_Assignment.exe
+
+build Balanced_Course_Assignment.exe: CXX_EXECUTABLE_LINKER__Balanced_Course_Assignment_Debug CMakeFiles/Balanced_Course_Assignment.dir/LAB/Lab02/Balanced_Course_Assignment.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Balanced_Course_Assignment.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Balanced_Course_Assignment.exe
+  TARGET_IMPLIB = libBalanced_Course_Assignment.dll.a
+  TARGET_PDB = Balanced_Course_Assignment.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Disjoint
+
+
+#############################################
+# Order-only phony target for Disjoint
+
+build cmake_object_order_depends_target_Disjoint: phony || .
+
+build CMakeFiles/Disjoint.dir/LAB/Lab03/Disjoint_Segment.cpp.obj: CXX_COMPILER__Disjoint_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/LAB/Lab03/Disjoint_Segment.cpp || cmake_object_order_depends_target_Disjoint
+  DEP_FILE = CMakeFiles\Disjoint.dir\LAB\Lab03\Disjoint_Segment.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Disjoint.dir
+  OBJECT_FILE_DIR = CMakeFiles\Disjoint.dir\LAB\Lab03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Disjoint
+
+
+#############################################
+# Link the executable Disjoint.exe
+
+build Disjoint.exe: CXX_EXECUTABLE_LINKER__Disjoint_Debug CMakeFiles/Disjoint.dir/LAB/Lab03/Disjoint_Segment.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Disjoint.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Disjoint.exe
+  TARGET_IMPLIB = libDisjoint.dll.a
+  TARGET_PDB = Disjoint.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Inversions
+
+
+#############################################
+# Order-only phony target for Inversions
+
+build cmake_object_order_depends_target_Inversions: phony || .
+
+build CMakeFiles/Inversions.dir/LAB/Lab03/Inversions.cpp.obj: CXX_COMPILER__Inversions_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/LAB/Lab03/Inversions.cpp || cmake_object_order_depends_target_Inversions
+  DEP_FILE = CMakeFiles\Inversions.dir\LAB\Lab03\Inversions.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Inversions.dir
+  OBJECT_FILE_DIR = CMakeFiles\Inversions.dir\LAB\Lab03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Inversions
+
+
+#############################################
+# Link the executable Inversions.exe
+
+build Inversions.exe: CXX_EXECUTABLE_LINKER__Inversions_Debug CMakeFiles/Inversions.dir/LAB/Lab03/Inversions.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Inversions.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Inversions.exe
+  TARGET_IMPLIB = libInversions.dll.a
+  TARGET_PDB = Inversions.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target SubSequence
+
+
+#############################################
+# Order-only phony target for SubSequence
+
+build cmake_object_order_depends_target_SubSequence: phony || .
+
+build CMakeFiles/SubSequence.dir/LAB/Lab03/Subsequence_MaxDistance.cpp.obj: CXX_COMPILER__SubSequence_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/LAB/Lab03/Subsequence_MaxDistance.cpp || cmake_object_order_depends_target_SubSequence
+  DEP_FILE = CMakeFiles\SubSequence.dir\LAB\Lab03\Subsequence_MaxDistance.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\SubSequence.dir
+  OBJECT_FILE_DIR = CMakeFiles\SubSequence.dir\LAB\Lab03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SubSequence
+
+
+#############################################
+# Link the executable SubSequence.exe
+
+build SubSequence.exe: CXX_EXECUTABLE_LINKER__SubSequence_Debug CMakeFiles/SubSequence.dir/LAB/Lab03/Subsequence_MaxDistance.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SubSequence.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SubSequence.exe
+  TARGET_IMPLIB = libSubSequence.dll.a
+  TARGET_PDB = SubSequence.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Job_Selection
+
+
+#############################################
+# Order-only phony target for Job_Selection
+
+build cmake_object_order_depends_target_Job_Selection: phony || .
+
+build CMakeFiles/Job_Selection.dir/P_7/Job_Selection.cpp.obj: CXX_COMPILER__Job_Selection_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/P_7/Job_Selection.cpp || cmake_object_order_depends_target_Job_Selection
+  DEP_FILE = CMakeFiles\Job_Selection.dir\P_7\Job_Selection.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Job_Selection.dir
+  OBJECT_FILE_DIR = CMakeFiles\Job_Selection.dir\P_7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Job_Selection
+
+
+#############################################
+# Link the executable Job_Selection.exe
+
+build Job_Selection.exe: CXX_EXECUTABLE_LINKER__Job_Selection_Debug CMakeFiles/Job_Selection.dir/P_7/Job_Selection.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Job_Selection.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Job_Selection.exe
+  TARGET_IMPLIB = libJob_Selection.dll.a
+  TARGET_PDB = Job_Selection.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Parallel_Job
+
+
+#############################################
+# Order-only phony target for Parallel_Job
+
+build cmake_object_order_depends_target_Parallel_Job: phony || .
+
+build CMakeFiles/Parallel_Job.dir/P_7/Parallel_Job.cpp.obj: CXX_COMPILER__Parallel_Job_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/P_7/Parallel_Job.cpp || cmake_object_order_depends_target_Parallel_Job
+  DEP_FILE = CMakeFiles\Parallel_Job.dir\P_7\Parallel_Job.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Parallel_Job.dir
+  OBJECT_FILE_DIR = CMakeFiles\Parallel_Job.dir\P_7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Parallel_Job
+
+
+#############################################
+# Link the executable Parallel_Job.exe
+
+build Parallel_Job.exe: CXX_EXECUTABLE_LINKER__Parallel_Job_Debug CMakeFiles/Parallel_Job.dir/P_7/Parallel_Job.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Parallel_Job.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Parallel_Job.exe
+  TARGET_IMPLIB = libParallel_Job.dll.a
+  TARGET_PDB = Parallel_Job.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target TSP
+
+
+#############################################
+# Order-only phony target for TSP
+
+build cmake_object_order_depends_target_TSP: phony || .
+
+build CMakeFiles/TSP.dir/P_7/TSP_Hard.cpp.obj: CXX_COMPILER__TSP_unscanned_Debug C$:/Users/htran/CLionProjects/Applied_Algo/P_7/TSP_Hard.cpp || cmake_object_order_depends_target_TSP
+  DEP_FILE = CMakeFiles\TSP.dir\P_7\TSP_Hard.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\TSP.dir
+  OBJECT_FILE_DIR = CMakeFiles\TSP.dir\P_7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target TSP
+
+
+#############################################
+# Link the executable TSP.exe
+
+build TSP.exe: CXX_EXECUTABLE_LINKER__TSP_Debug CMakeFiles/TSP.dir/P_7/TSP_Hard.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\TSP.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = TSP.exe
+  TARGET_IMPLIB = libTSP.dll.a
+  TARGET_PDB = TSP.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -497,6 +728,14 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build Applied_Algo: phony Applied_Algo.exe
 
+build Balanced_Course_Assignment: phony Balanced_Course_Assignment.exe
+
+build Disjoint: phony Disjoint.exe
+
+build Inversions: phony Inversions.exe
+
+build Job_Selection: phony Job_Selection.exe
+
 build Largest_Black_Sub_Rectangle: phony Largest_Black_Sub_Rectangle.exe
 
 build P_1_1: phony P_1_1.exe
@@ -517,7 +756,13 @@ build P_2_4: phony P_2_4.exe
 
 build P_3_1: phony P_3_1.exe
 
+build Parallel_Job: phony Parallel_Job.exe
+
 build Range_minimum: phony Range_minimum.exe
+
+build SubSequence: phony SubSequence.exe
+
+build TSP: phony TSP.exe
 
 build Telco_data: phony Telco_data.exe
 
@@ -529,7 +774,7 @@ build Telco_data: phony Telco_data.exe
 #############################################
 # Folder: C:/Users/htran/CLionProjects/Applied_Algo/cmake-build-debug
 
-build all: phony Applied_Algo.exe P_1_1.exe P_1_2.exe P_1_3.exe P_1_4.exe Largest_Black_Sub_Rectangle.exe Range_minimum.exe Telco_data.exe P_2_1.exe P_2_2.exe P_2_3.exe P_2_4.exe P_3_1.exe
+build all: phony Applied_Algo.exe P_1_1.exe P_1_2.exe P_1_3.exe P_1_4.exe Largest_Black_Sub_Rectangle.exe Range_minimum.exe Telco_data.exe P_2_1.exe P_2_2.exe P_2_3.exe P_2_4.exe P_3_1.exe Balanced_Course_Assignment.exe Disjoint.exe Inversions.exe SubSequence.exe Job_Selection.exe Parallel_Job.exe TSP.exe
 
 # =============================================================================
 # Built-in targets
